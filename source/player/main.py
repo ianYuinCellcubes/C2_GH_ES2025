@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/home/cellcubes/PycharmProjects/player")
+sys.path.append("/home/cellcubes/Desktop/player")
 from PySide6.QtWidgets import QApplication
 from source.player.Control.mainControl import MainController
 
