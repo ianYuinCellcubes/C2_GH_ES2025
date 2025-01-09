@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/home/cellcubes/Desktop/player")
+sys.path.append("/home/cellcubes/Desktop/player/C2_GH_ES2025")
 from source.player.Model.mainModel import DataModel
 from source.player.View.mainView import MainView
 from source.player.View.subView import SubView
